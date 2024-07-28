@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 .DS_Store
-Yoga_instructor/.DS_Store
-Yoga_instructor/models/.DS_Store
+./Yoga_instructor/.DS_Store
+./Yoga_instructor/models/.DS_Store
